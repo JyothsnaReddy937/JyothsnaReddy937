@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JyothsnaReddy937
+- 👋 Hi, I’m @JyothsnaMaruprolu
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning deep neural networks using pytorch 
 
